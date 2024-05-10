@@ -1,1 +1,1 @@
-https://github.com/aperturedesignedfurniture/mta-sts-policyfile/blob/2ca9db98637136aadb2e638c25a2301243a9bc3f/mta-sts-policy
+https://github.com/aperturedesignedfurniture/mta-sts-policyfile/wellknown/mta-sts
